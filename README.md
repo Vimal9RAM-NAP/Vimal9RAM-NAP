@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌟I'm Currently having fun this🤞<br>lot to do and i think this is going to be a heck of a journey💫
+🌟I'm Currently having fun with this🤞<br>lot to do and i think this is going to be a heck of a journey💫
 
 
 ## 🌐 Socials:
