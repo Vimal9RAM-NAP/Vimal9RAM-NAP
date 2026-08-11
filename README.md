@@ -1,5 +1,24 @@
 # 💫 About Me:
-# Hi there, I'm Vimal Ram! 👋<br><br>I am a second-year Computer Science & Engineering undergraduate student at **Vidya Academy of Science & Technology** with a strong passion for problem-solving, clean code, and software development. <br><br>🌟 **I'm Currently having fun with this 🤞 lot to learn and i think this is going to be a heck of a journey**<br><br>### 🚀 About Me<br>- 🌬️ **No fluff, just build:** I believe in showing skill through active development, execution, and continuous building.<br>- 💻 **Active Learner:** Focused on translating logic into code, strengthening core computer systems fundamentals, and exploring practical web development.<br>- 🎯 **Mindset:** I love tackling fresh coding challenges, learning by doing, and exploring how backend systems tie together to solve real-world issues.<br><br>### 🛠️ Current Tech & Focus Areas<br>- **Languages:** Java, Python, C,C++,C#,JavaScript,TypeScript<br>- **Core Pillars:** Data Structures & Algorithms (DSA), System Fundamentals, Collaborative Git workflows<br>- **Exploring:** Modern Web Architecture & Development Frameworks<br><br>### 📬 Let's Connect!<br>- **LinkedIn:** https://in.linkedin.com/in/vimalram-cs<br>- **Let's Talk Tech:** Always open to collaborating on student projects, open-source initiatives, or talking to tech mentors!<br>
+# Hi there, I'm Vimal Ram! 👋
+
+I am a second-year Computer Science & Engineering undergraduate student at **Vidya Academy of Science & Technology** with a strong passion for problem-solving, clean code, and software development. 
+
+🌟 **I'm Currently having fun with this 🤞 lot to learn and i think this is going to be a heck of a journey**
+
+### 💫 About Me
+- 🌬️ **No fluff, just build:** I believe in showing skill through active development, execution, and continuous building.
+- 💻 **Active Learner:** Focused on translating logic into code, strengthening core computer systems fundamentals, and exploring practical web development.
+- 🎯 **Mindset:** I love tackling fresh coding challenges, learning by doing, and exploring how backend systems tie together to solve real-world issues.
+
+### 🛠️ Current Tech & Focus Areas
+- **Languages:** Java, Python, C, C++, C#, JavaScript, TypeScript
+- **Core Pillars:** Data Structures & Algorithms (DSA), System Fundamentals, Collaborative Git workflows
+- **Exploring:** Modern Web Architecture & Development Frameworks
+
+### 📬 Let's Connect!
+- **LinkedIn:** (https://in.linkedin.com/in/vimalram-cs)
+- **Collaboration:** Always open to collaborating on student projects, open-source initiatives, or talking to tech mentors!
+
 
 
 ## 🌐 Socials:
@@ -12,14 +31,6 @@
 ![](https://streak-stats.demolab.com/?user=Vimal9RAM-NAP&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vimal9RAM-NAP&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Vimal9RAM-NAP&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vimal9RAM-NAP&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Vimal9RAM-NAP&icon=0&color=9)](https://visitcount.itsvg.in)
