@@ -5,7 +5,7 @@ I am a second-year Computer Science & Engineering undergraduate student at **Vid
 
 🌟 **I'm Currently having fun with this 🤞 lot to learn and i think this is going to be a heck of a journey**
 
-### 💫 About Me
+### 💫 More About Me
 - 🌬️ **No fluff, just build:** I believe in showing skill through active development, execution, and continuous building.
 - 💻 **Active Learner:** Focused on translating logic into code, strengthening core computer systems fundamentals, and exploring practical web development.
 - 🎯 **Mindset:** I love tackling fresh coding challenges, learning by doing, and exploring how backend systems tie together to solve real-world issues.
