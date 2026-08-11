@@ -13,7 +13,7 @@ I am a second-year Computer Science & Engineering undergraduate student at **Vid
 ### 🛠️ Current Tech & Focus Areas
 - **Languages:** Java, Python, C, C++, C#, JavaScript, TypeScript
 - **Core Pillars:** Data Structures & Algorithms (DSA), System Fundamentals, Collaborative Git workflows
-- **Exploring:** Modern Web Architecture & Development Frameworks
+- **Exploring:** Modern Web Architecture, Game development & AI agent Frameworks
 
 ### 📬 Let's Connect!
 - **LinkedIn:** (https://in.linkedin.com/in/vimalram-cs)
