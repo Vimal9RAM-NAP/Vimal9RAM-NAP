@@ -11,7 +11,7 @@ I am a second-year Computer Science & Engineering undergraduate student at **Vid
 - 🎯 **Mindset:** I love tackling fresh coding challenges, learning by doing, and exploring how backend systems tie together to solve real-world issues.
 
 ### 🛠️ Current Tech & Focus Areas
-- **Languages:** Java, Python, C, C++, C#, JavaScript, TypeScript
+- **Languages:** Java, Python, C, C++, C#, JavaScript, TypeScript, HTML5, CSS
 - **Core Pillars:** Data Structures & Algorithms (DSA), System Fundamentals, Collaborative Git workflows
 - **Exploring:** Modern Web Architecture, Game development & AI agent Frameworks
 
