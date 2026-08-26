@@ -18,6 +18,7 @@ I am a second-year Computer Science & Engineering undergraduate student at **Vid
 ### 📬 Let's Connect!
 - **LinkedIn:** (https://in.linkedin.com/in/vimalram-cs)
 - **itch.io:**  (https://oddjobsdevvimalram.itch.io/)
+- **Npm:** (https://www.npmjs.com/~vimal-ram)
 - **Collaboration:** Always open to collaborating on student projects, open-source initiatives, or talking to tech mentors!
 
 
