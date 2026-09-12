@@ -28,6 +28,7 @@ I am a second-year Computer Science & Engineering undergraduate student at Vidya
 ### 🤝 Let's Connect!
 
 * 💼 **LinkedIn:** https://www.linkedin.com/in/vimalram-cs
+* 🧪 **Experimental Github Account:** https://github.com/Vimal9Ram (My personal sandbox for scratchpad apps, unfinished prototypes, and long-term tools)
 * 🎮 **itch.io:** https://oddjobsdevvimalram.itch.io
 * 📦 **npm:** https://www.npmjs.com/~vimal-ram
 * 💬 **Collaboration:** Open to student projects, open-source initiatives, or chatting with tech mentors!
