@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td valign="middle">
-      <img src="https://github.com" width="500" />
+      <img src="https://github.com" width="500">
     </td>
     <td valign="middle">
-      <a href="https://git.io"><img src="https://demolab.com" alt="Typing SVG" /></a>
+      <a href="https://git.io"><img src="https://demolab.com" alt="Typing SVG"></a>
     </td>
   </tr>
 </table>
