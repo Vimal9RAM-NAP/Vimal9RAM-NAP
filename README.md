@@ -1,15 +1,17 @@
 # Hi there, I'm Vimal Ram! 👋
 
-<div align="left">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500" style="float: left; margin-right: 10px;" />
-  
-  <div align="right">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans+&weight=500&size=21&pause=770&multiline=true&width=435&height=70&lines=Check+out+my+repos+;if+you're+here" alt="Typing SVG" />
-    </a>
-  </div>
-</div>
-<br clear="all" />
+<table>
+  <tr>
+    <td valign="middle">
+      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
+    </td>
+    <td valign="middle" style="padding-left: 20px;">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans+&weight=500&size=21&pause=770&multiline=true&width=435&height=70&lines=Check+out+my+repos+;if+you're+here" alt="Typing SVG" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 I am a second-year Computer Science & Engineering undergraduate student at Vidya Academy of Science & Technology, driven by a strong passion for problem-solving, clean code, and building interactive software.
 
