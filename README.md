@@ -1,18 +1,12 @@
 # Hi there, I'm Vimal Ram! 👋
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
-      <img src="https://github.com" width="100%">
-    </td>
-    <td valign="middle" width="45%" style="padding-left: 20px;">
-      <a href="https://git.io">
-        <img src="https://demolab.com">
-      </a>
-    </td>
-  </tr>
-</table>
-<br><br>
+<img src="https://github.com" align="left" width="450" height="250" style="margin-right: 20px;">
+
+<a href="https://git.io">
+  <img src="https://demolab.com" />
+</a>
+
+<br clear="left"><br>
 
 
 I am a second-year Computer Science & Engineering undergraduate student at Vidya Academy of Science & Technology, driven by a strong passion for problem-solving, clean code, and building interactive software.
