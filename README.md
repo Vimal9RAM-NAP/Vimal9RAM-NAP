@@ -3,11 +3,11 @@
 <table>
   <tr>
     <td valign="middle">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
+      <img src="https://github.com" width="500">
     </td>
     <td valign="middle" style="padding-left: 20px;">
       <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans+&weight=500&size=21&pause=770&multiline=true&width=435&height=70&lines=Check+out+my+repos+;if+you're+here" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans+&weight=500&size=21&pause=701&multiline=true&width=440&height=75&lines=Check+out+my+repos+if+you're+here" alt="Typing SVG" />
       </a>
     </td>
   </tr>
