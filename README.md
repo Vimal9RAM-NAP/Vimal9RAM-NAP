@@ -1,7 +1,21 @@
 # Hi there, I'm Vimal Ram! 👋
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
-<br><br>
+<table>
+<tr>
+<td width="55%" valign="middle">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"
+     width="500">
+
+</td>
+
+<td width="45%" valign="middle">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=18&pause=701&multiline=true&width=300&height=75&lines=Check+out+my+repos+if+you're+here)](https://git.io/typing-svg)
+
+</td>
+</tr>
+</table>
 
 I am a second-year Computer Science & Engineering undergraduate student at Vidya Academy of Science & Technology, driven by a strong passion for problem-solving, clean code, and building interactive software.
 
