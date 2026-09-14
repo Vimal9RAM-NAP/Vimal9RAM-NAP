@@ -1,5 +1,8 @@
 # Hi there, I'm Vimal Ram! 👋
 
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
+<br><br>
+
 I am a second-year Computer Science & Engineering undergraduate student at Vidya Academy of Science & Technology, driven by a strong passion for problem-solving, clean code, and building interactive software.
 
 🚀 **Current Focus:** Deepening my understanding of modern web architecture, game development physics, and practical AI agent frameworks.
@@ -43,3 +46,6 @@ I am a second-year Computer Science & Engineering undergraduate student at Vidya
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<br><br>
