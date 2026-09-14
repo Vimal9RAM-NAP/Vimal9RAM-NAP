@@ -1,6 +1,6 @@
 # Hi there, I'm Vimal Ram! 👋
 
-<img src="https://github.com" align="left" width="450" height="250" style="margin-right: 20px;">
+<img src="https://giphy.com" align="left" width="300" style="margin-right: 20px;">
 
 <a href="https://git.io">
   <img src="https://demolab.com" />
