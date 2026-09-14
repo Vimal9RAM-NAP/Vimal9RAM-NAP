@@ -21,6 +21,7 @@
 </p>
 I am a second-year Computer Science & Engineering undergraduate student at Vidya Academy of Science & Technology, driven by a strong passion for problem-solving, clean code, and building interactive software.
 
+
 🚀 **Current Focus:** Deepening my understanding of modern web architecture, game development physics, and practical AI agent frameworks.
 
 ---
