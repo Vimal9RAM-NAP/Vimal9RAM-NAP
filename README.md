@@ -1,6 +1,9 @@
 # Hi there, I'm Vimal Ram! 👋
 
 I am a second-year Computer Science & Engineering undergraduate student at Vidya Academy of Science & Technology, driven by a strong passion for problem-solving, clean code, and building interactive software.
+<p align="left">
+  <img src="https://pythonanywhere.com" alt="Vimal9RAM-NAP profile views" />
+</p>
 
 🚀 **Current Focus:** Deepening my understanding of modern web architecture, game development physics, and practical AI agent frameworks.
 
