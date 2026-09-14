@@ -3,7 +3,11 @@
 I am a second-year Computer Science & Engineering undergraduate student at Vidya Academy of Science & Technology, driven by a strong passion for problem-solving, clean code, and building interactive software.
 
 🚀 **Current Focus:** Deepening my understanding of modern web architecture, game development physics, and practical AI agent frameworks.
-
+<p align="left">
+  <a href="https://github.com">
+    <img src="https://komarev.com" alt="Vimal9RAM-NAP profile views" />
+  </a>
+</p>
 ---
 
 ### 🧠 About Me
