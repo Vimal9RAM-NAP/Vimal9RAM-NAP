@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td valign="middle">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
+      <img src="https://github.com" width="500">
     </td>
     <td valign="middle">
-      <a href="https://git.io"><img src="https://demolab.com" alt="Typing SVG"></a>
+      <a href="https://github.com"><img src="https://demolab.com" alt="Typing SVG"></a>
     </td>
   </tr>
 </table>
