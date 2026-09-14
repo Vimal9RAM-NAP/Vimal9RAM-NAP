@@ -1,6 +1,17 @@
 # Hi there, I'm Vimal Ram! 👋
 
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
+<table>
+  <tr>
+    <td valign="top" width="55%">
+      <img src="https://github.com" width="100%" alt="Cozy Workspace" />
+    </td>
+    <td valign="middle" width="45%" style="padding-left: 20px;">
+      <a href="https://git.io">
+        <img src="https://demolab.com" alt="Typing SVG" />
+      </a>
+    </td>
+  </tr>
+</table>
 <br><br>
 
 I am a second-year Computer Science & Engineering undergraduate student at Vidya Academy of Science & Technology, driven by a strong passion for problem-solving, clean code, and building interactive software.
