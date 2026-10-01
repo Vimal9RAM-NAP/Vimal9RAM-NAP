@@ -1,68 +1,167 @@
-# Hi there, I'm Vimal Ram! 👋
+<div align="center">
 
-<table>
-<tr>
-<td width="55%" valign="middle">
+# Hey, I'm Vimal Ram <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75" align="middle">
+
+### Computer Science & Engineering Student • Developer • Builder
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"
-     width="500">
+     width="650">
 
-</td>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=18&pause=701&multiline=true&width=500&height=75&lines=Building+Web+Applications+%7C+Games+%7C+Developer+Tools;Exploring+AI%2C+Backend+Systems+%26+Open+Source)](https://git.io/typing-svg)
+<div align="center">
 
-<td width="45%" valign="middle">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=18&pause=900&color=FF3B3B&center=true&vCenter=true&width=500&height=50&lines=Check+out+my+repos+if+you're+here+%F0%9F%91%80)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=18&pause=701&multiline=true&width=300&height=75&lines=Check+out+my+repos+if+you're+here)](https://git.io/typing-svg)
+</div>
 
-</td>
-</tr>
-</table>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vimal9RAM-NAP&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+### 🌐 Web Development • 🎮 Game Development • 🤖 AI • 📦 Developer Tools
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Vimal9RAM-NAP&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="75">
+
+</div>
+
+### 🎯 Currently Exploring
+- 🌐 **Modern Web Architecture & Backend Development**
+- 🎮 **Game Development, Physics & Interactive Systems**
+- 🤖 **AI Agents & AI-powered Applications**
+- 📦 **Open Source & npm Package Development**
+
+---
+
+## 🧠 ABOUT ME
+I'm a second-year **Computer Science & Engineering undergraduate at Vidya Academy of Science & Technology**, interested in building practical software and understanding how systems work under the hood.
+
+I enjoy working across **web development, game development, developer tools, and AI**, while strengthening my foundations in problem-solving, data structures, algorithms, and software engineering.
+
+I learn best by building — turning ideas into projects, experimenting with new technologies, and continuously improving what I create.
+
+---
+## 🛠️ TECH STACK & TOOLS
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,cs,kotlin,php,rust" />
 </p>
-I am a second-year Computer Science & Engineering undergraduate student at Vidya Academy of Science & Technology, driven by a strong passion for problem-solving, clean code, and building interactive software.
 
+`SystemVerilog`
 
-🚀 **Current Focus:** Deepening my understanding of modern web architecture, game development physics, and practical AI agent frameworks.
+### 🌐 Web & Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+`REST APIs` · `JSON` · `Modern Web Architecture`
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+</p>
+
+### 📦 Developer Tools & Package Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,linux" />
+</p>
+
+### ☁️ Deployment & Hosting
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,netlify,github" />
+</p>
+
+### 🎮 Game Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=godot,unity,blender" />
+</p>
+
+### 🤖 AI & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+`AI APIs` · `AI Agents` · `Automation`
+
+### 🎨 Design & Creative Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,blender,gimp" />
+</p>
+
+`Canva` . `GIMP`
 
 ---
+## 🤝 LET'S CONNECT
 
-### 🧠 About Me
+<div align="center">
 
-* 🔨 **No Fluff, Just Build:** I believe true engineering skill is shown through execution, active development, and continuous shipping of real projects.
-* ⚡ **Active Learner:** Dedicated to translating complex logic into readable code, mastering core computer science fundamentals, and exploring backend engineering.
-* 🎯 **Mindset:** I love tackling fresh coding challenges, learning by doing, and discovering how systems connect to solve real-world problems.
+<a href="https://www.linkedin.com/in/vimalram-cs">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/Vimal9Ram">
+  <img src="https://img.shields.io/badge/GitHub-Experiments-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://oddjobsdevvimalram.itch.io">
+  <img src="https://img.shields.io/badge/itch.io-Games-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white" />
+</a>
+<a href="https://www.npmjs.com/~vimal-ram">
+  <img src="https://img.shields.io/badge/npm-Packages-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
+</a>
+
+<br>
+
+<a href="https://www.youtube.com/@vljgaming215">
+  <img src="https://img.shields.io/badge/YouTube-Content-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/napoleon_vlj">
+  <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:vimalram9087@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+###  OPEN TO COLLABORATION
+
+**📬 Contact Me? → [Send me an email](mailto:vimalram9087@gmail.com)**
+
 
 ---
+## 📊 GITHUB ACTIVITY
 
-### 🛠️ Tech Stack & Tools
+<div align="center">
 
-* **Languages:** Java, Python, JavaScript, TypeScript, C, C++, C#, Kotlin
-* **Web & Frontend:** HTML5, CSS3, Modern Web Architecture
-* **Tools & Platforms:** Git, GitHub, Netlify, Vercel, MySQL
-* **Design & Engines:** Godot, Figma, Blender, GIMP, Canva
+<img src="https://github-readme-stats.shion.dev/api?username=Vimal9RAM-NAP&show_icons=true&theme=dark&bg_color=0D0D0D&title_color=FF3B3B&text_color=FFFFFF&icon_color=FF3B3B&border_color=000000&border_radius=10&include_all_commits=true&count_private=true" height="170">
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=flat-square&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat-square&logo=blender&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=flat-square&logo=godot-engine)
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Vimal9RAM-NAP&layout=compact&theme=dark&bg_color=0D0D0D&title_color=FF3B3B&text_color=FFFFFF&border_color=000000&border_radius=10&langs_count=8" height="170">
 
----
+<br>
 
-### 🤝 Let's Connect!
+<img src="https://streak-stats.demolab.com/?user=Vimal9RAM-NAP&theme=dark&background=0D0D0D&ring=FF3B3B&fire=FF3B3B&currStreakLabel=FF3B3B&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&border=000000" height="170">
 
-* 💼 **LinkedIn:** https://www.linkedin.com/in/vimalram-cs
-* 🧪 **Experimental Github Account:** https://github.com/Vimal9Ram (My personal sandbox for scratchpad apps, unfinished prototypes, and long-term tools)
-* 🎮 **itch.io:** https://oddjobsdevvimalram.itch.io
-* 📦 **npm:** https://www.npmjs.com/~vimal-ram
-* 💬 **Collaboration:** Open to student projects, open-source initiatives, or chatting with tech mentors!
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/napoleon_vlj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vimalram-cs) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@vljgaming215) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vimalram9087@gmail.com) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Vimal9RAM-NAP&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Vimal9RAM-NAP&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Vimal9RAM-NAP&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
