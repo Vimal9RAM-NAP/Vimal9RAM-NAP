@@ -5,7 +5,7 @@
 ### Computer Science & Engineering Student • Developer • Builder
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d"
-     width="650">
+     width="1200">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Josefin+Sans&weight=500&size=18&pause=701&multiline=true&width=500&height=75&lines=Building+Web+Applications+%7C+Games+%7C+Developer+Tools;Exploring+AI%2C+Backend+Systems+%26+Open+Source)](https://git.io/typing-svg)
 <div align="center">
