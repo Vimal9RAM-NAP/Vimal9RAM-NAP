@@ -86,11 +86,8 @@ I learn best by building — turning ideas into projects, experimenting with new
 
 ### ☁️ Deployment & Hosting
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vercel,netlify,github" />
-</p>
+![icons](https://go-skill-icons.vercel.app/api/icons?i=netlify,vercel,itchio,github)
 
-`itchio`
 
 ### 🎮 Game Development
 
@@ -108,11 +105,9 @@ I learn best by building — turning ideas into projects, experimenting with new
 
 ### 🎨 Design & Creative Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,blender,gimp" />
-</p>
+![icons](https://go-skill-icons.vercel.app/api/icons?i=figma,blender,gimp)
 
-`Canva` . `GIMP`
+`Canva`
 
 ---
 ## 🤝 LET'S CONNECT
