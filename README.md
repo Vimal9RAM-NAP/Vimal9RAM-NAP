@@ -82,11 +82,15 @@ I learn best by building — turning ideas into projects, experimenting with new
   <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,vim,neovim,linux" />
 </p>
 
+`LazyVim`
+
 ### ☁️ Deployment & Hosting
 
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,netlify,github" />
 </p>
+
+`itchio`
 
 ### 🎮 Game Development
 
