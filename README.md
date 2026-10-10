@@ -79,7 +79,7 @@ I learn best by building — turning ideas into projects, experimenting with new
 ### 📦 Developer Tools & Package Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,vim,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,vim,neovim,linux" />
 </p>
 
 ### ☁️ Deployment & Hosting
