@@ -78,11 +78,7 @@ I learn best by building — turning ideas into projects, experimenting with new
 
 ### 📦 Developer Tools & Package Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,npm,vscode,vim,neovim,linux" />
-</p>
-
-`LazyVim`
+![icons](https://go-skill-icons.vercel.app/api/icons?i=git,github,npm,vscode,vim,neovim,lazyvim,linux)
 
 ### ☁️ Deployment & Hosting
 
