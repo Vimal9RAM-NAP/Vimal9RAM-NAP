@@ -51,7 +51,7 @@ I learn best by building — turning ideas into projects, experimenting with new
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,cs,kotlin,php,rust" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,cs,kotlin,php,rust,go,lua" />
 </p>
 
 `SystemVerilog`
@@ -73,7 +73,7 @@ I learn best by building — turning ideas into projects, experimenting with new
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" />
 </p>
 
 ### 📦 Developer Tools & Package Development
