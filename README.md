@@ -58,9 +58,7 @@ I learn best by building — turning ideas into projects, experimenting with new
 
 ### 🌐 Web & Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs" />
-</p>
+![icons](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,tailwindcss,bootstrap,sass,redux,vite,nextjs)
 
 ### ⚙️ Backend & APIs
 
