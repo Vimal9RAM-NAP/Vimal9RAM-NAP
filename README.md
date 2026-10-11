@@ -64,11 +64,7 @@ I learn best by building — turning ideas into projects, experimenting with new
 
 ### ⚙️ Backend & APIs
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
-
-`REST APIs` · `JSON` · `Modern Web Architecture`
+![icons](https://go-skill-icons.vercel.app/api/icons?i=nodejs,spring,nestjs,expressjs,fastapi,django,gin,postman)
 
 ### 🗄️ Databases
 
