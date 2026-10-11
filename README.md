@@ -72,9 +72,7 @@ I learn best by building — turning ideas into projects, experimenting with new
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,sqlite,redis" />
-</p>
+![icons](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb,sqlite,redis,mariadb,clickhouse,json)
 
 ### 📦 Developer Tools & Package Development
 
