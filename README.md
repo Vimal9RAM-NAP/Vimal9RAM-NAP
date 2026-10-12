@@ -43,7 +43,7 @@ I'm a second-year **Computer Science & Engineering undergraduate at Vidya Academ
 
 I enjoy working across **web development, game development, developer tools, and AI**, while strengthening my foundations in problem-solving, data structures, algorithms, and software engineering.
 
-I learn best by building — turning ideas into projects, experimenting with new technologies, and continuously improving what I create.
+I learn best by building — **turning ideas into projects, experimenting with new technologies, and continuously improving what I create**.
 
 ---
 ## 🛠️ TECH STACK & TOOLS
