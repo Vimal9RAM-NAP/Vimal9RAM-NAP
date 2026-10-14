@@ -14,7 +14,7 @@
 
 </div>
 
-### 🌐 Web Development • 🎮 Game Development • 🤖 AI • 📦 Developer Tools
+###  Web Development •  Game Development •  AI •  Developer Tools
 
 <br>
 
@@ -30,15 +30,15 @@
 
 </div>
 
-### 🎯 Currently Exploring
-- 🌐 **Modern Web Architecture & Backend Development**
-- 🎮 **Game Development, Physics & Interactive Systems**
-- 🤖 **AI Agents & AI-powered Applications**
-- 📦 **Open Source & npm Package Development**
+###  Currently Exploring
+-  **Modern Web Architecture & Backend Development**
+-  **Game Development, Physics & Interactive Systems**
+-  **AI Agents & AI-powered Applications**
+-  **Open Source & npm Package Development**
 
 ---
 
-## 🧠 ABOUT ME
+##  ABOUT ME
 I'm a second-year **Computer Science & Engineering undergraduate at Vidya Academy of Science & Technology**, interested in building practical software and understanding how systems work under the hood.
 
 I enjoy working across **web development, game development, developer tools, and AI**, while strengthening my foundations in problem-solving, data structures, algorithms, and software engineering.
@@ -46,7 +46,7 @@ I enjoy working across **web development, game development, developer tools, and
 I learn best by building — **turning ideas into projects, experimenting with new technologies, and continuously improving what I create**.
 
 ---
-## 🛠️ TECH STACK & TOOLS
+##  TECH STACK & TOOLS
 
 ### 💻 Languages
 
@@ -135,7 +135,7 @@ I learn best by building — **turning ideas into projects, experimenting with n
 
 
 ---
-## 📊 GITHUB ACTIVITY
+##  GITHUB ACTIVITY
 
 <div align="center">
 
