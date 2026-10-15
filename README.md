@@ -48,7 +48,7 @@ I learn best by building — **turning ideas into projects, experimenting with n
 ---
 ##  TECH STACK & TOOLS
 
-### 💻 Languages
+###  Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,js,ts,c,cpp,cs,kotlin,php,rust,go,lua" />
@@ -56,34 +56,34 @@ I learn best by building — **turning ideas into projects, experimenting with n
 
 `SystemVerilog`
 
-### 🌐 Web & Frontend
+###  Web & Frontend
 
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,typescript,react,tailwindcss,bootstrap,sass,redux,vite,nextjs)
 
-### ⚙️ Backend & APIs
+###  Backend & APIs
 
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=nodejs,spring,nestjs,expressjs,fastapi,django,gin,postman)
 
-### 🗄️ Databases
+###  Databases
 
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgresql,mongodb,sqlite,redis,mariadb,clickhouse,json)
 
-### 📦 Developer Tools & Package Development
+###  Developer Tools & Package Development
 
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=git,github,npm,vscode,vim,neovim,lazyvim,linux)
 
-### ☁️ Deployment & Hosting
+###  Deployment & Hosting
 
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=netlify,vercel,itchio,github)
 
 
-### 🎮 Game Development
+###  Game Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=godot,unity,blender" />
 </p>
 
-### 🤖 AI & Automation
+###  AI & Automation
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
@@ -91,14 +91,14 @@ I learn best by building — **turning ideas into projects, experimenting with n
 
 `AI APIs` · `AI Agents` · `Automation`
 
-### 🎨 Design & Creative Tools
+###  Design & Creative Tools
 
 ![icons](https://go-skill-icons.vercel.app/api/icons?i=figma,blender,gimp)
 
 `Canva`
 
 ---
-## 🤝 LET'S CONNECT
+##  LET'S CONNECT
 
 <div align="center">
 
@@ -131,7 +131,7 @@ I learn best by building — **turning ideas into projects, experimenting with n
 
 ###  OPEN TO COLLABORATION
 
-**📬 Contact Me? → [Send me an email](mailto:vimalram9087@gmail.com)**
+**Contact Me? → [Send me an email](mailto:vimalram9087@gmail.com)**
 
 
 ---
