@@ -39,7 +39,7 @@
 ---
 
 ##  ABOUT ME
-I'm a second-year **Computer Science & Engineering undergraduate at Vidya Academy of Science & Technology**, interested in building practical software and understanding how systems work under the hood.
+I'm a second-year **Computer Science & Engineering undergraduate at Vidya Academy of Science & Technology**, interested in building practical **software and understanding how systems** work under the hood.
 
 I enjoy working across **web development, game development, developer tools, and AI**, while strengthening my foundations in **problem-solving, data structures, algorithms, and software engineering.**
 
